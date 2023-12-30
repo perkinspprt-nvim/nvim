@@ -81,4 +81,5 @@ require('lazy').setup(vim.tbl_extend('keep', user_lazy_opts, {
 	},
 }))
 
+require('live-server').setup(config)
 -- Enjoy!
