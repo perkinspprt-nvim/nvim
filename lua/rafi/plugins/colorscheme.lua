@@ -18,6 +18,7 @@ return {
 	{ 'olimorris/onedarkpro.nvim' },
 	{ 'EdenEast/nightfox.nvim', name = "nightfox" },
 	{ 'nyoom-engineering/oxocarbon.nvim', name = "oxocarbon" },
+	{'shaunsingh/solarized.nvim', name = "solarized", lazy = false},
 	{ 'NTBBloodbath/doom-one.nvim',
 		priority = 100,
 		lazy = false,
@@ -50,10 +51,17 @@ return {
 		name = 'everforest',
 		priority = 100,
 	},
+	{
+  "craftzdog/solarized-osaka.nvim",
+  lazy = false,
+  priority = 1000,
+  opts = {},
+	name = "solarized-osaka"
+	},
 
 	{
 		'ribru17/bamboo.nvim',
-		lazy = false,
+		lazy = true,
 		config = function()
 			require('bamboo').setup({})
 			require('bamboo').load()

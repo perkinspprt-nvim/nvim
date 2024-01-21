@@ -80,6 +80,8 @@
   "pgsql.vim": { "branch": "master", "commit": "736c9899163a7f4e212c1675d8a1fe42570a027a" },
   "plenary.nvim": { "branch": "master", "commit": "55d9fe89e33efd26f532ef20223e5f9430c8b0c0" },
   "rest.nvim": { "branch": "main", "commit": "84e81a19ab24ccf05c9233d34d4dfce61c233abe" },
+  "solarized": { "branch": "master", "commit": "fe02ed49cc017cc93657bd6306a2624394611c69" },
+  "solarized-osaka": { "branch": "main", "commit": "e436a77eb643fe42d52b229c5cdf2e72dda88ed4" },
   "suda.vim": { "branch": "master", "commit": "8b0fc3711760195aba104e2d190cff9af8267052" },
   "tabs-vs-spaces.nvim": { "branch": "main", "commit": "eb6e2d610bb541bdf6b698d076b9ed4acf403394" },
   "telescope-thesaurus.nvim": { "branch": "master", "commit": "0bd7f7c2ce67c8b86b98b80dd42ec597bea72c7c" },
