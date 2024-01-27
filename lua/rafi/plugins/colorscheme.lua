@@ -18,7 +18,6 @@ return {
 	{ 'olimorris/onedarkpro.nvim' },
 	{ 'EdenEast/nightfox.nvim', name = "nightfox" },
 	{ 'nyoom-engineering/oxocarbon.nvim', name = "oxocarbon" },
-	{'shaunsingh/solarized.nvim', name = "solarized", lazy = false},
 	{ 'NTBBloodbath/doom-one.nvim',
 		priority = 100,
 		lazy = false,
